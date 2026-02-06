@@ -60,40 +60,22 @@ Domains can be managed through a **popup window** inside the application.
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-pip install -r requirements.txt
-How to Run
-python main.py
+pip install -r requirements.txt 
+```
+
+
+
+
+# How to Run
+
+```bash
+python main.py 
+```
+
+
 After running the command, use the graphical interface to start scraping.
 
-Output
-The output is a CSV file containing the following fields:
 
-Business Name
+### Notes
 
-Area
-
-Domain
-
-Website
-
-Instagram URL
-
-Google Maps Link
-
-Tech Stack
-Python
-
-Selenium
-
-BeautifulSoup
-
-Pandas
-
-Desktop GUI (PyQt or Tkinter)
-
-Notes
-Some businesses may not have websites or Instagram profiles
-
-Results depend on Google Maps data and website structure
-
-Scraping speed and results may vary
+Some businesses may not have websites or Instagram profiles Results depend on Google Maps data and website structure Scraping speed and results may vary
