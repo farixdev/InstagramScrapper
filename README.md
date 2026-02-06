@@ -33,7 +33,7 @@ Domains can be managed through a **popup window** inside the application.
    - Google Maps listing is saved
    - Website is visited (if available)
    - Instagram profile link is extracted
-6. All data is saved into a **CSV file**
+6. All data is saved into a **CSV file** in Output Folder
 
 ---
 
